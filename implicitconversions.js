@@ -1,6 +1,6 @@
 let num1="34"
 let num2="54"
-// num1=parseInt(num1);  if we use parse in it will purely converted into integer. + sign will also work
+// num1=parseInt(num1);  if we use parseInt it will purely converted into integer. + sign will also work
 // num2=parseInt(num2);
 let num3=num2-num1;
 let num4=num2+num1;
