@@ -23,3 +23,8 @@ let a4= a1.reduce((h1,h2)=>
 })
 
 console.log(a4);
+
+let a5= a1.forEach((element,index,value) => {
+    console.log(element,index,value);
+    
+});
