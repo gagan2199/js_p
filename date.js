@@ -41,4 +41,6 @@ const months = [
   } ${date.getFullYear()}`;
   
   document.body.innerHTML = sentence;
+
+  document.write(date.getDate());
   
