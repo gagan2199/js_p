@@ -8,7 +8,7 @@ const third = document.getElementById('third');
 // const classValue = first.className;
 // console.log(classValue);
 
-second.className[0] = 'colors text';
+// second.className = 'colors text';
 
 // third.classList.add('colors');
 // third.classList.add('text');
