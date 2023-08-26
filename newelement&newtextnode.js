@@ -22,7 +22,7 @@ randomVar= 'random value';
 let elm= document.createElement('ul');
 
 
-elm.innerHTML=`<li class="abc">${randomVar}</li> <li class="abc">${randomVar}</li> <li class="abc">${thirdVar}</li>`
+elm.innerHTML=`<li class="abc">${randomVar}</li> <li class="abc">${secondVar}</li> <li class="abc">${thirdVar}</li>`
 
 document.body.appendChild(elm);
 
