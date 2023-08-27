@@ -20,18 +20,18 @@ let frnd=JSON.parse(localStorage.getItem(friends))
 
 console.log(friends[2]);
 
-let fruits;
+// let fruits;
 
-if(localStorage.getItem('fruits')){
-fruits= JSON.parse(localStorage.getItem('fruits'));
-}
-else{
-    fruits=[];
-}
+// if(localStorage.getItem('fruits')){
+// fruits= JSON.parse(localStorage.getItem('fruits'));
+// }
+// else{
+//     fruits=[];
+// }
 
-fruits.push('mango');
-fruits.push('orange');
+// fruits.push('mango');
+// fruits.push('orange');
 
-console.log(fruits);
+// console.log(fruits);
  
-localStorage.setItem('fruits',JSON.stringify(fruits));
+// localStorage.setItem('fruits',JSON.stringify(fruits));
