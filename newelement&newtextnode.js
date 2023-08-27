@@ -18,6 +18,8 @@ document.body.insertBefore(div1,ib);
 // document.body.removeChild(div1);
 
 randomVar= 'random value';
+secondVar= 'second data'
+thirdVar='third data'
 
 let elm= document.createElement('ul');
 
