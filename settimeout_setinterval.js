@@ -18,4 +18,4 @@ let marksheet=setInterval((marks) => {
 
 }, 2000);
 
-console.log(`marks of student= ${marksheet}`)
+console.log(`marks of the student= ${marksheet}`)
