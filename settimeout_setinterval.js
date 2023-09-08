@@ -9,7 +9,7 @@ setTimeout((marks) => {
     // marks= Math.ceil((Math.random));
    marks= Math.floor(Math.random() * 101);
 
-    console.log(`marks = ${marks}`)
+    console.log(`marks are = ${marks}`)
 }, 3000);
 
 let marksheet=setInterval((marks) => {
