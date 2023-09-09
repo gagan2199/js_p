@@ -22,7 +22,7 @@ const months = [
     'Wednesday',
     'Thursday',
     'Friday',
-    'Saturtday',
+    'Saturday',
   ];
   
   // const date = new Date();
