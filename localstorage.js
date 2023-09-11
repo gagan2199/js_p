@@ -19,6 +19,7 @@ localStorage.setItem('friend',JSON.stringify(friends));
 let frnd=JSON.parse(localStorage.getItem(friends))
 
 console.log(friends[2]);
+console.log(frnd);
 
 // let fruits;
 
