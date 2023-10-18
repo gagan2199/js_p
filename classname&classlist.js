@@ -12,14 +12,14 @@ const third = document.getElementById('third');
 
 // third.classList.add('colors');
 // third.classList.add('text');
-third.classList.add('text', 'colors');
+third.classList.add('text','colors');
 third.classList.remove('text');
 
 let result = third.classList.contains('colors');
 if (result) {
   console.log('hello world');
 } else {
-  console.log('does not have the class');
+  console.log('it does not have the class');
 }
 
 const classValue = third.classList;
