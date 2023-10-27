@@ -1,4 +1,4 @@
-let a = [1,"ram",{name:"sham",game:"cricket"}]
+let a = [1,"ram",{name:"sham",game:"cricket"}];
 
 document.write(a);
 
