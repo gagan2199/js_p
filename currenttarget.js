@@ -6,7 +6,7 @@ let lnk= document.getElementById('lnk');
 
 // heading.addEventListener('click',(element)=>
 // {
-//     heading.style.color='red';
+//     heading.style.color='blue';
 // })
 
 heading.addEventListener('click',(event)=>
