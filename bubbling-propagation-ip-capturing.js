@@ -20,3 +20,11 @@ list.addEventListener('click', showBubbling, { capture: true });
 container.addEventListener('click', showBubbling, { capture: true });
 document.addEventListener('click', showBubbling, { capture: true });
 window.addEventListener('click', showBubbling, { capture: true });
+
+
+/*
+list.addEventListener('click', showBubbling, { capture: true });
+container.addEventListener('click', showBubbling, { capture: true });
+document.addEventListener('click', showBubbling, { capture: true });
+window.addEventListener('click', showBubbling, { capture: true });
+*/
