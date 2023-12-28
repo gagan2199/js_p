@@ -21,6 +21,13 @@ container.addEventListener('click', showBubbling, { capture: true });
 document.addEventListener('click', showBubbling, { capture: true });
 window.addEventListener('click', showBubbling, { capture: true });
 
+/*
+function stopPropogation(e) {
+  e.stopPropagation();
+}
+*/
+
+
 
 /*
 list.addEventListener('click', showBubbling, { capture: true });
