@@ -5,6 +5,7 @@ const first = document.getElementById('first');
 const second = document.getElementById('second');
 const third = document.getElementById('third');
 
+//class name : 
 // const classValue = first.className;
 // console.log(classValue);
 
